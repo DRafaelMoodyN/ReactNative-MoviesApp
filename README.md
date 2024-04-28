@@ -80,7 +80,3 @@ To learn more about React Native, take a look at the following resources:
 
 
 npx react-native start --reset-cache
-
-D@vidTMDB2023#
-
-a4d306496934e1bb1bfffe28ff47efe2
